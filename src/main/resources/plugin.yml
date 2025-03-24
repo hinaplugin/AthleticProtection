@@ -1,0 +1,5 @@
+name: AthleticProtection
+version: '1.0.0'
+main: com.hinaplugin.athleticProtection.AthleticProtection
+api-version: '1.20'
+authors: [ hina2113 ]
